@@ -1,3 +1,6 @@
+# XP-TV
+XP-TV is an application that connects to a Raspberry Pi and starts a stream of [How Is It Manifested??](https://www.twitch.tv/howisitmanifested).
+
 ## Setup
 Copy the whole folder to the raspberry.
 
