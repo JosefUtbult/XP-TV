@@ -1,0 +1,11 @@
+[Unit]
+Description=XP-TV
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/pi/XP_TV/app.py
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
